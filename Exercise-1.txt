@@ -1,0 +1,11 @@
+1.implement list mapping 
+-craete entity class Employee with bellow variabled
+	A.emp_id;
+	B.emp_name;
+	C.emp_certificates;
+
+-one employee can have multiple certificates,
+
+1.insert valus into employee table
+2.delete specific valu by emp_id
+3.show the no.of certificates of employee.

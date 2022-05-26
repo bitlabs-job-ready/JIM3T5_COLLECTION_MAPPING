@@ -1,0 +1,11 @@
+2.implement set mapping 
+-craete entity class Student with bellow variabled
+	A.std_id;
+	B.std_name;
+	C.std_laptops;
+
+-onestudents can have multiple laptops,
+
+1.insert valus into student table
+2.delete specific valu by std_id
+3.show the no.of certificates of student.

@@ -1,0 +1,11 @@
+3.implement Map mapping 
+-craete entity class Student with bellow variabled
+	A.bus_id;
+	B.bus_name;
+	C.bus_passengers;
+
+-one bus can have multiple passengers,
+
+1.insert valus into bus table
+2.delete specific valu by bus_id
+3.show the no.of passengers  of a bus.
